@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyen Van Tao",
+        "tel": "0982873827",
+        "role": 1
+    },
+    
+    {
+        "id": 2,
+        "name": "Dong Khoi",
+        "tel": "0982873827",
+        "role": 2
+    },
+    {
+        "id": 3,
+        "name": "Ly Thuong Kiet",
+        "tel": "0982873827",
+        "role": 3
+    },
+    {
+        "id": 4,
+        "name": "Ly Chieu Hoang",
+        "tel": "0982873827",
+        "role": 1
+    },
+    {
+        "id": 5,
+        "name": "Cuu Long",
+        "tel": "0982873827",
+        "role": 2
+    }
+
+]
